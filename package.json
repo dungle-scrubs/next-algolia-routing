@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@algolia/autocomplete-js": "^1.7.1",
+    "@algolia/autocomplete-theme-classic": "^1.7.1",
+    "algoliasearch": "^4.13.1",
+    "instantsearch.css": "^7.4.5",
     "next": "12.2.0",
+    "qs": "^6.11.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-instantsearch-hooks-server": "^6.30.0",
+    "react-instantsearch-hooks-web": "^6.30.0"
   },
   "devDependencies": {
     "eslint": "8.19.0",

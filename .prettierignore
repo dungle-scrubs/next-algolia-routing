@@ -1,0 +1,10 @@
+.cache
+package.json
+package-lock.json
+public
+.vercel
+yarn.lock
+yarn-error.log
+node_modules
+.next
+__STASH__
